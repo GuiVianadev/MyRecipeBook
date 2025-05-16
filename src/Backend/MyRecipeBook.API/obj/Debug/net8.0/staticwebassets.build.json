@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "ypNmN/EyjH+vmDB6f23irgGKCZfKOF1q/t4FYWraFuA=",
+  "Hash": "ak3aKd04tO1srTNMvWrBp+e88m1SgnmTwgtAZQ65AnI=",
   "Source": "MyRecipeBook.API",
   "BasePath": "_content/MyRecipeBook.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
