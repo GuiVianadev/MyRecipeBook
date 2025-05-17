@@ -1,3 +1,5 @@
+using MyRecipeBook.Application.Services.AutoMapper;
+using MyRecipeBook.Application.Services.Cryptography;
 using MyRecipeBook.Communication.Requests;
 using MyRecipeBook.Communication.Responses;
 using MyRecipeBook.Exceptions.ExceptionsBase;
@@ -8,13 +10,17 @@ public class RegisterUserUseCase
 {
     public ResponseRegisterUserJson Execute(RequestRegisterUserJson request)
     {
+        var criptografiaDeSenha = new PasswordEncripter();
+        var autoMapper = new AutoMapper.MapperConfiguration(options =>
+        {
+            options.AddProfile(new AutoMapping());
+        }).CreateMapper();
+
         Validate(request);
 
-        // Mapear a request em uma entidade
+        var user = autoMapper.Map<Domain.Entities.User>(request);
 
-        // criptografia da senha
-
-        //Salvar no banco de dados
+        user.Password = criptografiaDeSenha.Encrypt(request.Password);
 
         return new ResponseRegisterUserJson
         {
