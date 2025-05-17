@@ -241,3 +241,14 @@ C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\obj\Debug\ne
 C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\obj\Debug\net8.0\staticwebassets\msbuild.MyRecipeBook.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\MyRecipeBook.Infrastructure.dll
+C:\Users\Guilherme\Documents\RecipeApp\src\Backend\MyRecipeBook.API\bin\Debug\net8.0\MyRecipeBook.Infrastructure.pdb
